@@ -1,4 +1,4 @@
- #PRC Data Challenge 2025
+# PRC Data Challenge 2025
 
 This repository contains the complete solution developed by the **kindly-garden** team for a data science challenge focused on aircraft fuel-burn prediction and flight data processing.
 ## Team & Acknowledgments
