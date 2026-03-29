@@ -7,7 +7,7 @@ This repository is the official entry of the kindly-garden team for the data cha
 
 **Team members:**
 - [Rade Kačar](https://ba.linkedin.com/in/rade-kacar-88688b7b) — University of Belgrade, Faculty of Transport and Traffic Engineering
-- [Darko Ćulibrk](https://ba.linkedin.com/in/darko-%C4%87ulibrk-400408a1) — MTEL BiH
+- [Darko Ćulibrk](https://ba.linkedin.com/in/darko-%C4%87ulibrk-400408a1) — MTEL Banja Luka
 
 We thank the challenge organizers and the open-source community for providing the tools and datasets that made this solution possible.
 
